@@ -18,3 +18,4 @@ void DeleteObjectCat(int x, int y);
 // 게임상태 : 게임오버(3)
 void DrawGameOver();
 
+void DrawFPS(double fps);
